@@ -1,6 +1,6 @@
 <b>JAVASCRIPT</b>
 
-<ul>
+<ol>
   <li>Const, Let & Var</li>
   <li>Primitive Data Types & Objects</li>
-</ul>
+</ol>
