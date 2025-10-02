@@ -3,6 +3,7 @@
 <ol>
   <li>Const, Let & Var</li>
   <li>Primitive Data Types & Objects</li>
+  <li>Operations & Expressions</li>
 </ol>
 
 
