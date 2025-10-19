@@ -11,6 +11,6 @@
 <b><i>JavaScript Practice Sets</i></b>
 
 <ol>
-  <li>PS 1</li>
-  <li>PS 2</li>
+  <li>PS - 01</li>
+  <li>PS - 02</li>
 </ol>
