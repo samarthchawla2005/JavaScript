@@ -5,6 +5,7 @@
   <li>Primitive Data Types & Objects</li>
   <li>Operations & Expressions</li>
   <li>Conditional Expression</li>
+  <li>For Loop</li>
 </ol>
 
 
